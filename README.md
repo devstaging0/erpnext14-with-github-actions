@@ -12,7 +12,7 @@ In this tutorial, we will walk you through the process of setting up an ERPNext 
 ## Work to do: 
 - fork repo
 - define secret variables
-- run workflow
+- run workflow.
 
 ## Getting started 
 ### Fork this Repository:
